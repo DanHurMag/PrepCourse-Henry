@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repositorio de preba para Henry
+Este es un proyecto de prueba para github.
